@@ -1,6 +1,6 @@
-# Tic Tac Toe Online
+# Tic Tac Toe
 
-Tic Tac Toe Online is a simple WebSocket driven online TicTacToe game built using node.js, socket.io and vue.js. It allows two players to play the game online, taking turns making moves on a virtual game board.
+Tic Tac Toe is a simple WebSocket driven online TicTacToe game built using node.js, socket.io and vue.js. It allows two players to play the game online, taking turns making moves on a virtual game board.
 
 ## Game Structure
 
