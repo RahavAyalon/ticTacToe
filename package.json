@@ -15,6 +15,6 @@
     "socket.io": "^4.4.0"
   },
   "scripts": {
-    "prod": "bash run-prod.bat"
+    "prod": "bash run-prod.bash"
   }
 }
