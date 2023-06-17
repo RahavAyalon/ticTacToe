@@ -57,7 +57,7 @@ If any of these conditions are met, the server-side backend declares the current
    ```
    npm run prod
    ```
-4. Access htt<span>p://127.0.0.1:8000 in your browser and wait till someone else with you searches for match too. (If you are alone, just access this address in two tabs and start playing) 
+4. Access http://127.0.0.1:8000 in your browser and wait till someone else with you searches for match too. (If you are alone, just access this address in two tabs and start playing) 
 
 ### Client-side (User Interface)
 
